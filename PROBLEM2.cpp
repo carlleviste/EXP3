@@ -1,4 +1,6 @@
-//Create a C++ Program that store temperature of Province A, Province B and Province C for a week (seven days) and display it
+//Create a C++ Program that store temperature of Province A, Province B and Province C 
+//for a week (seven days) and display it
+
 #include <iostream>
 #include <conio.h>
 using namespace std;
